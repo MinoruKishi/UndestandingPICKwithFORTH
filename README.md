@@ -1,2 +1,6 @@
+[(Click here to go to the English version)](./README_ENG.md)
+
 # UndestandingPICKwithFORTH
-In the public Facebook group “Retro Microcomputers, Workstations, Servers and Consoles”, Rob Folden posted about a system called PICK. So, I asked ChatGPT about things I didn't know, and (since I'm always asking ChatGPT about FORTH), it turned into a sort of comparison between PICK and FORTH. 
+
+Facebookの公開グループ「[Retro Microcomputers, Workstations, Servers and Consoles - Welcome!](https://www.facebook.com/groups/retrocomputers/)」で、Rob FoldenさんがPICKというシステムについての投稿がありました。で、知らないことをChatGPTに尋ねてみたところ、（私がChatGPTにFORTHのことを聞いてばかりいるもので、）PICKとFORTHの比較論のような話になってしまいました。ご興味のある方はどうぞ。
+
