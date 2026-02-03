@@ -369,6 +369,12 @@ Let me **clearly position it** right from the conclusion.
 `┌─────────────────────┐ │ Application │ ← Business Program ├─────────────── ──────┤ │ Pick BASIC │ ← Language ├─────────────────────┤ │ PICK DB (MultiValue)│ ← Database ├─────────────────────┤ │ PICK Runtime / VM │ ← Virtual Machine ├─────────────────────┤ │ PICK OS │ ← OS-like functions └─────────────────────┘ ↑ All of this is “PICK”`
 
   
+│ Application │ ← Business Program     |  
+│──────│────────────│  
+│ Pick BASIC │ ← Language              │   
+│ PICK DB (MultiValue)│ ← Database │  
+│ PICK Runtime / VM │ ← Virtual Machine  │ 
+│ PICK OS │ ← OS-like functions  │
 
 ---
 
