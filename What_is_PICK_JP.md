@@ -10,10 +10,13 @@ Facebookの公開グループ「[Retro Microcomputers, Workstations, Servers and
 https://www.facebook.com/groups/retrocomputers/permalink/26534386189497911/
 
 ## 私：
-> 以下のコメントでのPICKについて教えてもらえませんか？ Still my all-time favorite! Addendum: If you have a copy of PICK for DOS, or anything close (Unidata for Windows, etc.) please PM me.
-> 
+以下のコメントでのPICKについて教えてもらえませんか？ 
+
+> Still my all-time favorite! 
+> Addendum: If you have a copy of PICK for DOS, or anything close (Unidata for Windows, etc.) please PM me.
+
 ## CatGPT:
-はい、このコメントに出てくる **PICK** は、一般的な英単語の _pick（選ぶ）_ ではなく、**往年のコンピュータシステム／データベース環境**を指しています。
+はい、このコメントに出てくる PICK は、一般的な英単語の pick（選ぶ） ではなく、往年のコンピュータシステム／データベース環境を指しています。
 
 ---
 
@@ -321,7 +324,12 @@ https://www.facebook.com/groups/retrocomputers/permalink/26534386189497911/
 どちらも、かなり面白いところまで行けます。
 
 ## 私：
-「次に進むなら、 • 「なぜPICKは廃れ、Forthは細く生き残ったのか」 • 「PICKをZ80/Forth VMで再構成すると何が見えるか」 」 これらの質問は非常に興味があります。それぞれ教えてもらえませんか？
+
+「次に進むなら、
+    • 「なぜPICKは廃れ、Forthは細く生き残ったのか」
+     • 「PICKをZ80/Forth VMで再構成すると何が見えるか」 」 
+
+これらの質問は非常に興味があります。それぞれ教えてもらえませんか？  
 
 ## CatGPT:
 いい問いを同時に投げましたね。  
@@ -430,7 +438,13 @@ Forthは**未完成の思想として残った**。
 
 PICKを「神話」から引きずり下ろすと：
 
-`[ ターミナル ]       ↓ [ コマンドインタプリタ ]       ↓ [ VM ]       ↓ [ データ管理（MultiValue） ]`
+`[ ターミナル ] 
+    ↓ 
+\[ コマンドインタプリタ ] 
+    ↓ 
+\[ VM ]
+    ↓
+\[ データ管理（MultiValue） ]`
 
 これ、**Forth VMとほぼ同型**です。
 
@@ -726,7 +740,7 @@ MSX0 は：
 続けますか？
 
 ## 私：
-ここまで詳細で緻密な回答をありがとうございます。ここで教えてもらったしそうだけ再度吟味して、これから自分がどう進んでいくかをゆっくり考えたいと思います。PICKに興味を持つ方が増えるといいなぁ。大切なことを教えてくだあってありがとうございました。
+ここまで詳細で緻密な回答をありがとうございます。ここで教えてもらった思想だけ再度吟味して、これから自分がどう進んでいくかをゆっくり考えたいと思います。PICKに興味を持つ方が増えるといいなぁ。大切なことを教えてくださってありがとうございました。
 
 ## CatGPT:
 こちらこそ、こんなに丁寧に受け取ってくださってありがとうございます。  

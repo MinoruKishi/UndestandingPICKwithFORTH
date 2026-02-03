@@ -18,9 +18,19 @@ https://www.facebook.com/groups/retrocomputers/permalink/26534386189497911/
 
 ## Me:
 
-> Could you explain the PICK mentioned in the comment below? Still my all-time favorite! Addendum: If you have a copy of PICK for DOS, or anything close (Unidata for Windows, etc.) please PM me.
+> [!NOTE]
+> > Could you explain the PICK mentioned in the comment below?
+> > 
+> > Still my all-time favorite! Addendum: If you have a copy of PICK for DOS, or anything close (Unidata for Windows, etc.) please PM me.
+> > 
+> >
 
->
+Could you explain the PICK mentioned in the comment below?  
+  
+> Still my all-time favorite! Addendum: If you have a copy of PICK for DOS, or anything close (Unidata for Windows, etc.) please PM me.  
+> 
+
+
 
 ## CatGPT:
 
@@ -615,7 +625,11 @@ Both could lead to some very interesting places.
 
 ## Me:
 
-“Moving forward, • ”Why did PICK fade away while Forth survived in a niche?“ • ”What would we see if we reconstructed PICK using a Z80/Forth VM?“ ” These questions are extremely interesting. Could you tell me about each?
+“Moving forward, 
+    • ”Why did PICK fade away while Forth survived in a niche?“ 
+    • ”What would we see if we reconstructed PICK using a Z80/Forth VM?“ ” 
+
+These questions are extremely interesting. Could you tell me about each?
 
   
 
