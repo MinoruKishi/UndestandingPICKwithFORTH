@@ -364,20 +364,15 @@ Let me **clearly position it** right from the conclusion.
 
 ## Viewed by layers, it looks like this
 
-  
 
-`┌─────────────────────┐ │ Application │ ← Business Program ├─────────────── ──────┤ │ Pick BASIC │ ← Language ├─────────────────────┤ │ PICK DB (MultiValue)│ ← Database ├─────────────────────┤ │ PICK Runtime / VM │ ← Virtual Machine ├─────────────────────┤ │ PICK OS │ ← OS-like functions └─────────────────────┘ ↑ All of this is “PICK”`
 
-  
-│ Application │ ← Business Program     |  
-│──────│────────────│  
-│ Pick BASIC │ ← Language              │   
-│ PICK DB (MultiValue)│ ← Database │  
-│ PICK Runtime / VM │ ← Virtual Machine  │ 
-│ PICK OS │ ← OS-like functions  │
-
----
-
+| Application          | ← Business Program  |     |
+| -------------------- | ------------------- | --- |
+| Pick BASIC           | ← Language          |     |
+| PICK DB (MultiValue) | ← Database          |     |
+| PICK Runtime / VM    | ← Virtual Machine   |     |
+| PICK OS              | ← OS-like functions |     |
+↑ All of this is “PICK”
   
 
 ## Compared to Windows / Linux?
@@ -534,19 +529,13 @@ To give the closest analogy for your context:
 
   
 
-| PICK | Forth |
-
-| ---------- | ------------ |
-
-| PICK OS | Forth VM |
-
-| Pick BASIC | Forth words |
-
-| Files | Dictionary / Word list |
-
-| DB | Data stack + heap |
-
-| TCL | Forth interpreter |
+| PICK       | Forth                  |
+| ---------- | ---------------------- |
+| PICK OS    | Forth VM               |
+| Pick BASIC | Forth words            |
+| Files      | Dictionary / Word list |
+| DB         | Data stack + heap      |
+| TCL        | Forth interpreter      |
 
   
 
@@ -800,17 +789,12 @@ Result:
 
   
 
-| Perspective | PICK | Forth |
-
-| ------ | ------ | -------- |
-
-| Worldview | Complete universe | Embedded component |
-
-| Target Users | Business environments | Engineers/Experimenters |
-
-| Resilience to Change | Low | High |
-
-| Current Status | Nearly extinct | Persists narrowly |
+| Perspective          | PICK                  | Forth                   |
+| -------------------- | --------------------- | ----------------------- |
+| Worldview            | Complete universe     | Embedded component      |
+| Target Users         | Business environments | Engineers/Experimenters |
+| Resilience to Change | Low                   | High                    |
+| Current Status       | Nearly extinct        | Persists narrowly       |
 
   
 
@@ -844,7 +828,13 @@ Pulling PICK down from its “mythical” pedestal:
 
   
 
-`[ Terminal ] ↓ [ Command Interpreter ] ↓ [ VM ] ↓ [ Data Management (MultiValue) ]`
+\[ Terminal ] 
+    ↓  
+\[ Command Interpreter ]
+    ↓
+\[ VM ]
+    ↓
+\[ Data Management (MultiValue) ]`
 
   
 
@@ -874,22 +864,13 @@ To put it plainly, what you're attempting is:
 
 ### Correspondences (quite explicit)
 
-  
-
-| PICK | Forth VM |
-
-| ---------- | ------------- |
-
-| Record | Structure / Array |
-
+| PICK        | Forth VM                              |
+|-------------|---------------------------------------|
+| Record      | Structure / Array                     |
 | Multi-value | Nested arrays / Variable-length cells |
-
-| TCL | Interpreter |
-
-| Pick BASIC | Set of definitions |
-
-| OS | VM + I/O |
-
+| TCL         | Interpreter                           |
+| Pick BASIC  | Set of definitions                    |
+| OS          | VM + I/O                              |
   
 
 ---
