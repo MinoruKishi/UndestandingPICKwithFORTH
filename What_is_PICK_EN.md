@@ -18,13 +18,6 @@ https://www.facebook.com/groups/retrocomputers/permalink/26534386189497911/
 
 ## Me:
 
-> [!NOTE]
-> > Could you explain the PICK mentioned in the comment below?
-> > 
-> > Still my all-time favorite! Addendum: If you have a copy of PICK for DOS, or anything close (Unidata for Windows, etc.) please PM me.
-> > 
-> >
-
 Could you explain the PICK mentioned in the comment below?  
   
 > Still my all-time favorite! Addendum: If you have a copy of PICK for DOS, or anything close (Unidata for Windows, etc.) please PM me.  
@@ -841,21 +834,17 @@ This part is for you.
 Pulling PICK down from its “mythical” pedestal:
 
   
-
-\[ Terminal ] 
+  
+[ Terminal ]   
     ↓  
-\[ Command Interpreter ]
-    ↓
-\[ VM ]
-    ↓
-\[ Data Management (MultiValue) ]`
-
+[ Command Interpreter ]  
+    ↓  
+[ VM ]  
+    ↓  
+[ Data Management (MultiValue) ]  
   
-
-This is **almost identical to a Forth VM**.
-
+This is **almost identical to a Forth VM**.  
   
-
 ---
 
   
